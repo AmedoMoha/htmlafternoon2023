@@ -1,0 +1,19 @@
+form{
+    background-color: aqua;
+    padding: 20px;
+    text-align: left;
+}
+input:hover{
+    color: red;
+    background-color: greenyellow;
+}
+input{
+    background-color: gray;
+    padding: 20px;
+}
+label{
+    font-family: Nakula;
+    font-size: xxx-large;
+    padding: 20px;
+    color: darkviolet;
+}
